@@ -1,16 +1,20 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+Expense Tracker App is a beautifully UI designed Flutter application that helps you manage your finances with ease. The app allows you to track your daily, weekly, and monthly expenses, providing a clear overview of your spending habits. With its sleek and intuitive user interface, managing your finances has never been more enjoyable.
 
-## Getting Started
+## Features
+- Add and Categorize Expenses: Quickly add new expenses and categorize them by type, such as food, transportation, entertainment, and more.
+- Real-Time Expense Tracking: View your spending in real-time with dynamic charts and graphs that provide insights into your financial habits.
+- Customizable Categories: Tailor the app to your needs by creating custom categories for different types of expenses.
+- Monthly Budgeting: Set monthly budgets for each category and track your progress throughout the month.
+- Beautiful UI: The app features a modern and elegant design with smooth animations and a user-friendly interface.
+## Technology Stack
+- Flutter: Developed using Flutter to ensure a fast and responsive experience across both Android and iOS platforms.
+- State Management: Utilizes efficient state management techniques to handle expense data and user interactions seamlessly.
+- Custom UI Components: Incorporates custom UI components to deliver a visually appealing and highly functional user experience.
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![1](https://github.com/user-attachments/assets/9dcafd58-55a5-4adb-9071-6a47b9b3c180)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/user-attachments/assets/4467394f-023e-4780-a396-7f51377da9f9)
