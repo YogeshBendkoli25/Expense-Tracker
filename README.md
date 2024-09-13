@@ -14,7 +14,5 @@ Expense Tracker App is a beautifully UI designed Flutter application that helps 
 - Custom UI Components: Incorporates custom UI components to deliver a visually appealing and highly functional user experience.
 
 ## Screenshot
-
-![1](https://github.com/user-attachments/assets/9dcafd58-55a5-4adb-9071-6a47b9b3c180)
-
-![2](https://github.com/user-attachments/assets/4467394f-023e-4780-a396-7f51377da9f9)
+![1](https://github.com/user-attachments/assets/e1ec48de-9af8-451f-8a05-63933fc7d7d7)
+![2](https://github.com/user-attachments/assets/e9acc192-ea0a-41f0-ab9e-c2a7bc647cc0)
